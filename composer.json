@@ -1,7 +1,6 @@
 {
   "name": "drupal/globers_inside",
   "description": "Globers inside",
-  "type": "drupal-profile",
   "license": "GPL-2.0+",
   "authors": [
     {
