@@ -3,9 +3,6 @@
   "description": "Globers inside",
   "type": "drupal-profile",
   "license": "GPL-2.0+",
-  "require": {
-    "drupal/core": "~8.1"
-  },
   "authors": [
     {
       "name": "Ivan Chavarro",
