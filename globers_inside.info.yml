@@ -1,0 +1,32 @@
+name: Globers Inside
+type: profile
+description: 'Profile of globers inside portals'
+core: 8.x
+
+# Required modules
+dependencies:
+  - node
+  - history
+  - block
+  - block_content
+  - breakpoint
+  - color
+  - config
+  - comment
+  - contextual
+  - quickedit
+  - help
+  - image
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - views
+  - views_ui
+  - editor
+  - ckeditor
